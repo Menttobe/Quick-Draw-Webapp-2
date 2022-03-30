@@ -1,0 +1,14 @@
+body{
+    background-color:limegreen;
+}
+#Charmander{
+    font-size:25px;
+    float:left;
+}
+#Charmeleon{
+    font-size:25px;
+    float:right
+}
+#Venusaur{
+    color:gray;
+}
